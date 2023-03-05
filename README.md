@@ -1,9 +1,7 @@
 ### Hi! 
 
-I'm Forrest. 
+I'm Forrest. More about me: 
 
-[Personal](www.crawfordlab.io)
+[Personal site](www.crawfordlab.io)
 
-[Yale](https://ysph.yale.edu/profile/forrest-crawford)
-
-
+[Yale profile](https://ysph.yale.edu/profile/forrest-crawford)
