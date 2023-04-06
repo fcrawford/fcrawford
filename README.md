@@ -1,6 +1,6 @@
 ### Hi! 
 
-I'm Forrest. More about me: 
+I'm Forrest. 
 
 [Personal site](www.crawfordlab.io)
 
